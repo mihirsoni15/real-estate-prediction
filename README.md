@@ -2,6 +2,7 @@
 
 This Streamlit application allows users to explore a real estate dataset, perform predictions on house prices based on user-selected property features, and visualize various insights from the dataset.
 
+[Visit the app here](https://real-estate-mihir.streamlit.app/)
 ---
 
 ## 📌 Overview
